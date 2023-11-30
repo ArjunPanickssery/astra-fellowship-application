@@ -1,0 +1,677 @@
+[
+  {
+    "rule": "Label the sentence A iff it contains a number",
+    "A": [
+      "There were 500 people at the concert.",
+      "I need to pick up 8 apples from the store today.",
+      "The race is 26.2 miles long. ",
+      "She scored 9 goals this season already.",
+      "They lived on the 14th floor of the building. ",
+      "The recipe requires 4 eggs and 2 cups of flour.",
+      "The race has 7 big hills to climb.",
+      "By 16, she had written 9 amazing songs.",
+      "There were 500 fans cheering at the concert.",
+      "My player hit 63 home runs to set the record."
+    ],
+    "B": [
+      "Many young children played at the park.",
+      "I need fruit to make a nice salad.  ",
+      "She completed the marathon in record time.",
+      "The office was busy on Monday. ",
+      "Their apartment had a nice city view.",
+      "Baking requires ingredients like eggs and flour.  ",
+      "Don't forget!",
+      "She was a talented songwriter as a teen.",
+      "A crowd attended the sold out concert.  ",
+      "He was one of the best power hitters ever."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it contains an adjective",
+    "A": [
+      "The young girl skipped merrily down the street. ",
+      "I bought a new red car yesterday.",
+      "The large crowd cheered loudly at the game. ",
+      "She wore a beautiful green dress to the party.",
+      "We watched an exciting movie last night.",
+      "My favorite flavor of ice cream is creamy chocolate.",
+      "The scary monster jumped out from the closet.",
+      "The funny comedian had the audience laughing hysterically. ",
+      "The bitter cold wind chilled us to the bone.",
+      "The sweet pineapple juice quenched my thirst on the hot day."
+    ],
+    "B": [
+      "She skipped down the street happily.",
+      "I bought a car yesterday. ",
+      "The crowd cheered at the game.",
+      "She wore a dress to the party.",
+      "We watched a movie last night.  ",
+      "My favorite ice cream flavor is chocolate.",
+      "The monster jumped out from the closet.",
+      "The comedian had the audience laughing.",
+      "The wind chilled us to the bone. ",
+      "The juice quenched my thirst on the hot day."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it contains quotation marks",
+    "A": [
+      "She said, \"I really enjoyed the movie last night.\"  ",
+      "The sign read, \"No parking on Tuesdays.\"",
+      "\"What time does the store close?\" he asked the clerk.",
+      "\"That was my favorite book when I was a kid,\" Mary explained.",
+      "The instructions said, \"Attach part A to part B using the screws provided.\"",
+      "The coach yelled, \"Great hustle, keep pushing!\"",
+      "\"I don't agree with your opinion,\" John stated.  ",
+      "Emily shouted, \"Look out for that car!\"",
+      "The teacher said, \"Please take out your textbooks and turn to page 54.\"",
+      "\"This cake is delicious,\" said Grandma. \"Could I have another slice?\""
+    ],
+    "B": [
+      "She mentioned that she liked the movie.",
+      "The sign indicated parking was not allowed on Tuesdays. ",
+      "He asked what time the store was closing.",
+      "Mary told us about a book she enjoyed as a child.",
+      "The instructions explained how to assemble the parts.",
+      "The coach provided encouragement to the team.",
+      "John disagreed with the opinion presented.",
+      "Emily yelled to warn about an approaching car. ",
+      "The teacher instructed the students to get their textbooks.",
+      "Grandma complimented the cake and asked for more."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it contains the word not",
+    "A": [
+      "I could not find my keys this morning before leaving for work.",
+      "The instructions specifically said to not turn left at the stop sign. ",
+      "She realized she did not have enough money to pay for the groceries.",
+      "The cake did not rise properly because he forgot to add baking powder.",
+      "The weather was rainy and cold, not ideal for going to the beach.",
+      "I told my son he could not have candy before dinner as it would spoil his appetite.",
+      "The computer would not turn on even after pressing the power button several times.",
+      "The woman was shocked that her daughter would not clean her room when asked.",
+      "The man quickly crossed the street so he would not be hit by a passing car.",
+      "She did not want to see that movie since she heard it received bad reviews."
+    ],
+    "B": [
+      "My favorite color is blue because it reminds me of the ocean.",
+      "I need to stop by the grocery store on the way home today.",
+      "Yesterday my sister made cookies with chocolate chips and walnuts.",
+      "In the summer we love to go camping in the state park nearby.",
+      "The kids played tag during recess while the teacher supervised.",
+      "I made sure to set my alarm before going to bed last night.  ",
+      "The baby laughed and smiled when his mother made silly faces.",
+      "We are hoping to adopt a dog or cat from the animal shelter soon.",
+      "For dinner I ate rice, beans, chicken, and vegetables that I cooked.",
+      "On weekends she enjoys sleeping in late whenever possible."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it contains a city name",
+    "A": [
+      "I used to live in San Francisco before moving to Seattle last year.  ",
+      "We're driving from Portland to Los Angeles next week for our vacation.",
+      "The weather in Chicago can be very unpredictable, with extreme heat in the summer and bitter cold in the winter.   ",
+      "New York City is famous for its busy streets, iconic skyscrapers, Broadway shows, and delicious pizza.",
+      "Boston is considered one of the best college towns in the United States.",
+      "Nashville is known as the capital of country music, with lots of great live music venues.   ",
+      "Miami is a popular tourist destination because of its beautiful beaches, warm weather, and vibrant nightlife. ",
+      "Austin keeps growing rapidly as more technology companies move to the city.  ",
+      "The Space Needle is one of the most famous landmarks in Seattle.",
+      "Los Angeles and New York often compete over which city has the worst traffic and pollution."
+    ],
+    "B": [
+      "She loves to travel and hopes to visit six countries on her next vacation.",
+      "The weather report said to expect storms this afternoon.  ",
+      "He stood on the observation deck of the tall building, taking in the beautiful skyline views.",
+      "She is studying computer science at the state university.",
+      "They drove past farms, lakes, and rolling hills on their road trip.   ",
+      "The small mountain town is known for its great hiking trails and scenic vistas. ",
+      "She always attends the annual music festival with her friends.  ",
+      "He checked the map to see how long the drive would take. ",
+      "The famous large bridge connecting the two land masses took over 4 years to build.  ",
+      "There wasn't anywhere else to go after we did all that."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it contains a French word or phrase ",
+    "A": [
+      "The chef prepared beef bourguignon and cr\u00e8me br\u00fbl\u00e9e for dinner.",
+      "She practiced ballet techniques like pirouettes and pli\u00e9s at the barre.",
+      "His favorite art museum displayed many Impressionist works like Monet's Nymph\u00e9as.",
+      "On Bastille Day they watched a parade on the Champs-\u00c9lys\u00e9es.",
+      "She always included au lait in her order when buying coffee at the caf\u00e9.",
+      "Bon app\u00e9tit is a polite phrase to say before a meal commences.",
+      "His r\u00e9sum\u00e9 highlighted skills in finance and accounting for the job application.",
+      "She was wearing a beret and speaking en fran\u00e7ais during her semester abroad in Paris.",
+      "The teacher had a very laissez-faire attitude toward student discipline.",
+      "I said \"Voil\u00e0!\" as the Eiffel Tower came into view when the train entered the station."
+    ],
+    "B": [
+      "The chef made steak for a fancy French dinner.",
+      "She practiced dance techniques like spins at the practice bar.",
+      "His favorite museum displayed beautiful water lily paintings in an outdoor gallery.",
+      "On the national holiday they watched a big parade on the main street.",
+      "She liked to order coffee with milk from the corner coffee shop.",
+      "\"Enjoy your meal\" is a polite saying before eating.",
+      "His job application highlighted accounting skills required for the finance job.",
+      "She explored Paris during her study abroad semester.",
+      "Words can be masculine or feminine based on their ending letter.",
+      "he iconic tower came into view on the train ride into the city."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it contains a palindrome word",
+    "A": [
+      "My dad decided to racecar down the road. ",
+      "She likes to kayak in her spare time. ",
+      "The civic leaders met to discuss new policies.",
+      "I prefer to cook desserts like banana bread.",
+      "My friend Eve loves to wear a cape when it's cold out. ",
+      "The young boy was learning how to refer to himself.",
+      "The runner stopped his jog to tie his shoe.",
+      "The pretty girl wore a flower in her hair at noon.",
+      "My mom rides public transport, including buses and trams.",
+      "The dad yelled to his son to stop tugging on his sister's hair."
+    ],
+    "B": [
+      "The students studied hard for the test.",
+      "She went shopping at the mall yesterday.  ",
+      "He scored the winning goal in overtime.",
+      "The kids played games at the park.",
+      "She sang a beautiful song at the concert. ",
+      "We saw an interesting movie about aliens. ",
+      "The large boat sailed across the ocean.",
+      "He rode his bicycle to school every day.",
+      "The family took a fun vacation to the beach. ",
+      "She read an exciting novel about wizards."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it references a sport",
+    "A": [
+      "The football team practices every weekday afternoon on the field.",
+      "She scored a goal in the soccer game yesterday.",
+      "Baseball is America's favorite pastime according to surveys.",
+      "The Olympic swimmer won a gold medal in the 100 meter freestyle. ",
+      "He watches basketball games on TV every weekend during the season.",
+      "The race car driver sped around the track at 200 mph.",
+      "Our school's basketball team is playing in the championship tournament.",
+      "The gymnast performed an amazing uneven bars routine.  ",
+      "Tom Brady just won his 7th Super Bowl playing football for the Patriots.",
+      "The tennis match went back and forth for hours in intense volleys."
+    ],
+    "B": [
+      "The students studied in groups in the library for their test.",
+      "She sang a beautiful solo at the concert last night.",
+      "Volunteers at the animal shelter walked the dogs every morning.",
+      "I ride his bike around the neighborhood after school.",
+      "Baking cookies and cakes is her favorite hobby.",
+      "The author did a book signing at the local bookstore.",
+      "They watched a movie at the theater and then went out to dinner.",
+      "She takes the train downtown each morning for her job.",
+      "The family visited museums and landmarks while on vacation. ",
+      "He mowed the lawn before it got too hot outside."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it describes something using a color",
+    "A": [
+      "The bright red apple looked delicious.",
+      "Her soft blond hair shone in the sunlight. ",
+      "The deep blue ocean stretched out to the horizon.",
+      "He wore a dark green sweater that matched his eyes.",
+      "The pastel pink flowers were arranged beautifully in the vase.",
+      "The gray clouds rolled across the early morning sky.",
+      "She carefully painted each nail a vibrant purple color. ",
+      "The orange and black butterfly landed gracefully on the flower.",
+      "The light brown dog happily chased the ball across the park.",
+      "The black and white photo captured a special memory from their wedding day."
+    ],
+    "B": [
+      "The fruit tasted sweet and delicious.",
+      "Her hair blew softly in the ocean breeze.  ",
+      "The waves crashed loudly against the rocks.",
+      "He wore a warm sweater on the cold day.",
+      "The flowers smelled fresh and fragrant.",
+      "Clouds filled the sky before the rainstorm.",
+      "She enjoyed pampering herself at the salon.",
+      "The butterfly flitted from flower to flower.  ",
+      "The energetic dog played fetch with the ball.",
+      "The photo captured a special memory from their wedding celebration."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it has more than 10 words",
+    "A": [
+      "The students studied hard for several weeks to prepare for the important upcoming exam.",
+      "The famous musician gave an incredible performance last night to a huge, energetic crowd.  ",
+      "Yesterday I bought some fresh vegetables, fruits, eggs, milk, cheese, bread, meat and juice from the grocery store.",
+      "The scientist conducted groundbreaking research on sustainable energy that could help solve the climate crisis.",
+      "The kind teacher patiently provides extra help for students who ask good questions and want to learn.",
+      "The Olympic athlete trained intensely for years, persevering through injuries and setbacks before winning the gold medal.",
+      "My family likes going on summer road trips to national parks to enjoy beautiful scenery and appreciate nature.",
+      "Volunteers at the animal shelter gently care for the dogs and cats, feeding them nutritious meals and giving them affection.",
+      "Our community center offers enriching programs in arts, sports, tutoring, mentoring and more for local kids and teens. ",
+      "The library hosts interesting events like author talks, reading groups, craft workshops and even live music performances."
+    ],
+    "B": [
+      "She sings. ",
+      "Students learn.",
+      "They played.",
+      "He runs fast. ",
+      "Birds fly south.",
+      "She wrote poems. ",
+      "We talked awhile.",
+      "They won the game.",
+      "She studies biology.",
+      "Help clean up, please."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it has fewer than 5 words",
+    "A": [
+      "I am happy.",
+      "She sings very well.  ",
+      "Dogs play fetch.",
+      "Cats nap often.",
+      "He runs fast.",
+      "Birds fly south.",
+      "Rain falls hard.",
+      "Snow is cold. ",
+      "Life is good.",
+      "Love conquers all."
+    ],
+    "B": [
+      "The young girl enjoyed a beautiful sunset.",
+      "The cute puppy played with the ball. ",
+      "The family went on a fun vacation last summer.",
+      "The students studied hard for the important test.",
+      "The baby took a long nap after lunch.",
+      "The nice lady helped the lost boy find his parents.",
+      "The brave firefighters quickly put out the dangerous fire.  ",
+      "The little boy asked for cookies from the large cookie jar.",
+      "The colorful butterflies fluttered all around.  ",
+      "The crazy squirrel gathered nuts for the winter."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it contains a long (10-letter or longer) word",
+    "A": [
+      "The construction workers were laying new asphalt on the interstate highway.  ",
+      "The preschool teacher read a fascinating fairy tale to the attentive children.",
+      "The photographer captured breathtaking images of the majestic mountain landscape.",
+      "The scientist conducted groundbreaking research on sustainable energy sources. ",
+      "The family went on an adventurous cross-country road trip last summer.",
+      "My little brother loves to watch cartoons on Saturday morning television.",
+      "The helpful librarian assisted the struggling student in finding reference books.",
+      "The crew team practiced on the river early every weekday morning before sunrise. ",
+      "The colorful hot air balloons floated slowly over the countryside.",
+      "The ice skater performed an artistic, beautiful routine at the competition."
+    ],
+    "B": [
+      "The kids played games in the yard.",
+      "She ate lunch very quickly since she had a lot of work to do.",
+      "He scored a goal to win the game for his team, which he really loved. ",
+      "They sang songs at camp in order to boost their spirits at night.",
+      "The cat napped in the sun.",
+      "He hit a home run.",
+      "She made some friends after school while playing sports and games.",
+      "They saw a fun show in London and Paris while in Europe for holiday.",
+      "The team won today after a long stretch of losing. ",
+      "The baby crawled fast, but not as fast as the older kids did."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it contains alliteration (first letter is the same for 3 consecutive words)",
+    "A": [
+      "Seven silly snakes slyly slithered through the grass searching for small rodents.",
+      "Peter Piper picked a peck of pickled peppers proudly presenting them in a patterned picnic basket.",
+      "Cindy carried colorful cookies to the children's choir club this cold Christmas day.",
+      "Bright beautiful butterflies bobbed by blooming blue bells during Bobby\u2019s birthday bash.",
+      "Mild mannered Martha munched on mini marshmallows by the purple pond every Monday midday.",
+      "\u201cDangerous deadly daring dragons dramatically dawdled behind dreary dark dungeons,\u201d wrote Wendy.",
+      "Jumping jovial jellyfish jiggled and jived while joyful jazz played at Jack\u2019s jamboree.",
+      "Andy anxiously admired fifteen fabulous fluffy Persian felines roaming freely around the big backyard.",
+      "\u201cMake mine a double,\u201d Martin murmured miserably making Mike and Michelle mildly concerned.",
+      "Lavender lemonade with little lemon drops made Lisa long for luscious lemon squares last Sunday."
+    ],
+    "B": [
+      "The red and green snakes moved through the forest quietly last night.",
+      "Julia picked vegetables from the organic garden to make a salad.",
+      "Emily made fresh chocolate cookies for her friends down the street.",
+      "Lovely butterflies floated gently over the pretty flowers by the water.",
+      "Mary had a snack break at lunch time while working on Monday.",
+      "Ashley wrote a story about imaginary creatures for English class.",
+      "Colorful jellyfish danced playfully along with some upbeat fun music.",
+      "Lucy looked at the group of cute furry cats wandering around outside.",
+      "Mark said he wanted two drinks instead of one at the pub.",
+      "Rita longed for her grandma\u2019s delicious lemon squares."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it is entirely in uppercase",
+    "A": [
+      "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.",
+      "SHE WAS VERY EXCITED TO GO ON VACATION TO PARIS.",
+      "THEY SERVED DELICIOUS PIZZA AND PASTA FOR DINNER.",
+      "HE LOVES LISTENING TO POPULAR HIP-HOP MUSIC ARTISTS.",
+      "THE ATHLETE TRAINED INTENSELY FOR THE MARATHON RACE.",
+      "THE STUDENTS STUDIED HARD FOR THEIR FINAL EXAMS IN JUNE.",
+      "HER FAVORITE SUBJECTS IN SCHOOL ARE MATH AND SCIENCE.",
+      "THE WEATHER WAS SUNNY AND WARM ON SATURDAY AFTERNOON.",
+      "THE KIDS WERE PLAYING GAMES OUTSIDE ON THE PLAYGROUND.",
+      "THEY WATCHED AN ACTION MOVIE AT THE LOCAL MOVIE THEATER."
+    ],
+    "B": [
+      "Sarah ate an apple for breakfast in the morning.",
+      "Rahul drove to the beach with his friends on Saturday afternoon.",
+      "The movie theater was showing some popular action movies this month.",
+      "Kevin is a librarian who works at the city library downtown.",
+      "My mother bought some fresh milk and bread at the local grocery store.",
+      "The restaurant served steak and potatoes with vegetables as the main dish.",
+      "The blue house on the corner has a big front porch with chairs.",
+      "On Sunday we went to church and saw family members in the neighborhood.",
+      "The children played basketball and tag during recess time at school.",
+      "I need to go to the bank to deposit my paycheck into my savings account."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it ends in a period",
+    "A": [
+      "My sister is studying computer science at the state university.",
+      "The old library downtown has thousands of classic books on the shelves.",
+      "Tom rides his bike around the neighborhood every evening after dinner.",
+      "Jasmine works part-time as a barista at the coffee shop on Main Street.",
+      "During winter it often snows heavily in the month of January.",
+      "The young couple just bought their first house right down the block.",
+      "Clean drinking water is essential for maintaining health around the world.",
+      "Reading fiction novels is one of my favorite hobbies and pastimes.",
+      "Large green mountains dominate the horizon to the north of the city.",
+      "My grandfather told fascinating stories of his travels when he was young."
+    ],
+    "B": [
+      "I was running so late this morning I had to skip breakfast and just grab a banana - can you believe I forgot to set my alarm?",
+      "The weatherman said heavy snow is expected tomorrow - I wonder if that means local schools will be closed or delayed?",
+      "My favorite book genre is sci-fi - doesn't reading about futuristic technology that could someday be real just spark your imagination?",
+      "Have you tried the amazing brick oven pizzas at the restaurant on 5th and Pine, with the fresh mozzarella and sweet basil?",
+      "We're going camping by the river this weekend - doesn't roasting marshmallows and stargazing sound like fun?",
+      "Mom made the most delicious pot roast dinner with carrots and potatoes - and served it with hot, melted butter rolls, yum!",
+      "Reading a little bit every day is so beneficial for building vocabulary and knowledge, you know - nonfiction is full of fascinating facts!",
+      "Can you think of anything more decadent than strawberry cheesecake topped with silky chocolate and lightly whipped cream?",
+      "I absolutely love when spring is here and colorful blooms appear - isn't it the most hopeful, renewal kind of season?",
+      "My friend plays guitar in an awesome indie band - I can't wait to attend their next live show!"
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it is a question",
+    "A": [
+      "Where should we go for dinner tonight?",
+      "What time does the movie start?",
+      "How many people are coming to the party?",
+      "Why is the sky blue?",
+      "Do you think it will rain today?  ",
+      "When does class end?",
+      "Who was the first president of the United States?",
+      "What is the capital of Australia?",
+      "Can you help me carry this box?",
+      "Have you finished your homework yet?"
+    ],
+    "B": [
+      "We are going to the new Italian restaurant for dinner.",
+      "The movie starts at 7 pm. ",
+      "Ten people are coming to the party.",
+      "The sky is blue because of the way air molecules scatter light.",
+      "I think there is a chance of rain today.",
+      "Class ends at 3:30 pm.",
+      "George Washington was the first president.",
+      "The capital of Australia is Canberra. ",
+      "I can help you carry that box, it looks heavy.",
+      "I just finished all my homework a few minutes ago."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it is in first-person",
+    "A": [
+      "We went to the park yesterday.",
+      "The color blue tends to look good on us. ",
+      "We prefer cats over dogs as pets.",
+      "We hope it doesn't rain today.",
+      "I ate an apple for breakfast.",
+      "We're excited to see my friend this weekend.",
+      "I studied hard for my test.",
+      "We like to read books in my spare time.",
+      "I try to exercise a few times a week. ",
+      "People don't like us after what we did to them."
+    ],
+    "B": [
+      "She went to the park yesterday. ",
+      "He really loves the color blue.",
+      "They prefer cats over dogs as pets. ",
+      "We hope it doesn't rain today.",
+      "You ate an apple for breakfast.",
+      "The students are excited for summer vacation.",
+      "The team studied the playbook hard.",
+      "The author likes to read books in her spare time.",
+      "The gym tries to appeal to casual exercisers.",
+      "The child wants to be a teacher someday."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it is in the past-tense",
+    "A": [
+      "She walked to the store yesterday.",
+      "They played soccer last weekend. ",
+      "I read an interesting book last night.",
+      "She was very tired after working all day.",
+      "We enjoyed the beautiful sunset.",
+      "He hoped for better weather on his trip.  ",
+      "They researched the topic thoroughly before writing.",
+      "I cleaned my room before going out.",
+      "She asked for assistance finding the book.",
+      "We laughed at the silly joke."
+    ],
+    "B": [
+      "She walks to the store every Thursday.  ",
+      "I play tennis every weekend if it's nice out.",
+      "He reads for at least an hour before bed.",
+      "She works hard at her job every day.",
+      "We enjoy going for long walks in the summer.",
+      "He hopes to travel more when he retires.",
+      "They research every detail before reaching conclusions. ",
+      "I clean my room once a week to stay organized.",
+      "She asks a lot of good questions in class.",
+      "We laugh easily at funny stories."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it is in the imperative mood",
+    "A": [
+      "Go to the store and pick up some milk.",
+      "Please turn your homework in on time.  ",
+      "Everybody get ready to leave now.",
+      "Wash your hands before eating.",
+      "Be kind to others.",
+      "Try your best on the test. ",
+      "Take notes during the lecture.",
+      "Take out the trash when you get home.",
+      "Take care of yourself when you're sick.",
+      "Take a deep breath and relax."
+    ],
+    "B": [
+      "I went to the store to pick up some milk. ",
+      "She turns her homework in on time.",
+      "We got ready to leave then.",
+      "He washed his hands before eating. ",
+      "She is kind to others.",
+      "I will try my best on the test.",
+      "He took notes during the lecture.",
+      "You take out the trash when you get home.  ",
+      "One takes care of oneself when sick. ",
+      "I took a deep breath and relaxed."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it ends with a preposition",
+    "A": [
+      "This is the store I was telling you about.",
+      "Where are you flying to?",
+      "She is the person I was referring to.",
+      "What college did you graduate from?",
+      "There are many issues we need to follow up on.",
+      "Who was that book written by?",
+      "I'm not sure what she was talking of.",
+      "Where is that train heading towards?",
+      "There are still situations we need to get out of. ",
+      "Whose house did you grow up in?"
+    ],
+    "B": [
+      "She carefully proofread the document before submitting it.",
+      "We drove past the grocery store on our way home.  ",
+      "I really enjoy reading novels during my free time.",
+      "The teacher asked the students to get into groups.",
+      "My sister loves to sing and dance around the house.",
+      "The kids were very well behaved at the birthday party.",
+      "I try to eat healthy and exercise on a regular basis.",
+      "She is taking courses in literature, math and biology.",
+      "The weather was sunny and mild over the weekend.",
+      "Please let me know if you need any help with the project."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it is made up of two rhyming components",
+    "A": [
+      "He was a silly bloke who liked to make up jokes.",
+      "She wore a nice cloak so that she wouldn't get soaked.",
+      "The young girl shook as she read from the old book.",
+      "I walked through the halls while I drew on the walls.",
+      "We all got stuck while crossing the muck.",
+      "All of us debated until we got frustrated",
+      "I wrote in my blog about my very happy dog.",
+      "The bike that I rode made me faster than a toad.",
+      "It was hard to see the logs, because the camp was filled with fog.",
+      "The remodeling created a brighter space, and put a smile on my face.."
+    ],
+    "B": [
+      "The comedian told funny jokes during his evening act.",
+      "Shelly went for a nice walk in the cool evening air.",
+      "Amanda read from an old novel written long ago.",
+      "The walls were filled with childish drawings in the hall.",
+      "The duck struggled to get free from the sticky mud.",
+      "Beth campaigned for the candidate she supported.",
+      "Jess owns an adorable little puppy dog.",
+      "My cousin was blown by strong winds.",
+      "The manager gathered firewood at the campsite.",
+      "The redesign made my studio brighter."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it is in iambic pentameter",
+    "A": [
+      "My dog enjoys to nap and sleep all day.",
+      "Your bright red hat looks lovely with your coat.",
+      "I really love the taste of apple pie.",
+      "My friends surprised me at my Sweet Sixteen.",
+      "I hope to travel to the Taj Mahal.",
+      "My teacher said to study very hard.",
+      "Your singing makes me laugh and shout with joy.",
+      "I'd like more lemonade if that's alright.",
+      "Your strawberry tastes very good, I think.",
+      "Please pick your shoes and socks up from the floor."
+    ],
+    "B": [
+      "The three kittens chased colorful yarn balls.",
+      "Fresh organic vegetables are grown here.",
+      "The hotel overlooking the ocean has luxury amenities.",
+      "My dad fixed the broken kitchen cabinet.",
+      "Brightly colored leaves fell gently from tall maple trees in autumn.",
+      "Soft soothing music played quietly on the radio station in the background.",
+      "During summer vacation we visited relatives who live across the country.",
+      "Our American history class focuses on the civil rights movement this week.",
+      "The popular amusement park opens up every year in the month of April.",
+      "My mom made scrambled eggs, toast and bacon."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it contains an arithmetic mistake",
+    "A": [
+      "It's well known that two plus two equals five.",
+      "If you divide 10 by 2, you would get the answer 6.",
+      "Our team scored 9 touchdowns and 2 field goals so that's 12 points!",
+      "If you combine 4 onions and 5 tomatoes, you have 11 vegetables.",
+      "My grandfather is 45 years old and had my dad at age 25, so my dad is 40 years old.",
+      "Sally bought 3 shirts costing $15 each which totals $50.",
+      "Our school has 500 students attending in first through fifth grade, an average of 300 per grade.",
+      "We drove 300 miles going 60 miles per hour, so it took us 8 hours.",
+      "The 20 story building added 5 more floors to become 35 stories high.",
+      "When you take 8 from 10, you are obviously left with 1."
+    ],
+    "B": [
+      "In imaginative stories, basic math does not apply logically.",
+      "Dividing by 2 halves the number in normal math.",
+      "Our football team scored enough to win the game.",
+      "Making a veggie salad requires chopping many ingredients.",
+      "My grandparents are older than my parents, logically.",
+      "Sally went shopping and spent $45 today on sale items.",
+      "Our relatively small school covers elementary and middle school grades.",
+      "Long road trips take extensive driving time at highway speeds.",
+      "Tall skyscrapers continue growing ever bigger in major cities.",
+      "Subtracting elements gives you what's left in a mathematical sense."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it contains a geographical inaccuracy",
+    "A": [
+      "The Amazon rainforest is located in Europe.",
+      "My friend visited the ancient pyramids of Khufu that happen to be in China.",
+      "Did you know the Colombian coffee region is actually in France interestingly?",
+      "Mexico borders the continental United States to the south and Canada to the north.",
+      "Sydney is the capital city of the small European country called Australia.",
+      "The Mojave desert's huge sand dunes and camels are quite impressive to see up close!",
+      "Brazil speaks Spanish predominantly as 67% of the population will tell you.",
+      "Mt Everest and K2, the highest peaks, are both situated in the lovely Alps mountain range.",
+      "Iceland is geographically speaking a country that borders Denmark by land.",
+      "India, home to tigers and elephants, falls entirely below the equator!"
+    ],
+    "B": [
+      "The Amazon tropical rainforest region in South America contains rich biodiversity.",
+      "My friend's Egyptian vacation had visits to ancient historical pyramid sites.",
+      "Caffeine is widely consumed throughout the world.",
+      "Mexico City is built on the site of a former Aztec capital.",
+      "Sydney is a harbor city located on the eastern Australian coastline.",
+      "My sister is studying computer science at the state university.",
+      "The old library downtown has thousands of classic books on the shelves.",
+      "Tom rides his bike around the neighborhood every evening after dinner.",
+      "Jasmine works part-time as a barista at the coffee shop on Main Street.",
+      "During winter it often snows heavily in the month of January."
+    ]
+  },
+  {
+    "rule": "Label the sentence A iff it is a famous movie quote",
+    "A": [
+      "I've got a feeling we're not in Kansas anymore",
+      "May the Force be with you.",
+      "I'm the king of the world!",
+      "You can't handle the truth!",
+      "I'm gonna make him an offer he can't refuse.",
+      "Here's looking at you, kid.",
+      "E.T. phone home.",
+      "You're gonna need a bigger boat.",
+      "If you build it, he will come.",
+      "Life is like a box of chocolates."
+    ],
+    "B": [
+      "The three kittens chased colorful balls of yarn across the hardwood floors.",
+      "Fresh organic vegetables are grown on local farms just outside of town.",
+      "The hotel overlooking the ocean has luxury amenities including a spa.",
+      "My dad fixed the broken kitchen cabinet this weekend using his toolbox.",
+      "Brightly colored leaves fell gently from tall maple trees in autumn.",
+      "Soft soothing music played quietly on the radio station in the background.",
+      "During summer vacation we visited relatives who live across the country.",
+      "Our American history class focuses on the civil rights movement this week.",
+      "The popular amusement park opens up every year in the month of April.",
+      "My mom made scrambled eggs, bacon, and toast for a delicious breakfast."
+    ]
+  }
+]

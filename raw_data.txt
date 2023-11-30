@@ -1,0 +1,525 @@
+contains a number
+1. There were 500 people at the concert.
+2. I need to pick up 8 apples from the store today.
+3. The race is 26.2 miles long. 
+4. She scored 9 goals this season already.
+5. They lived on the 14th floor of the building. 
+6. The recipe requires 4 eggs and 2 cups of flour.
+7. The race has 7 big hills to climb.
+8. By 16, she had written 9 amazing songs.
+9. There were 500 fans cheering at the concert.
+10. My player hit 63 home runs to set the record.
+1. Many young children played at the park.
+2. I need fruit to make a nice salad.  
+3. She completed the marathon in record time.
+4. The office was busy on Monday. 
+5. Their apartment had a nice city view.
+6. Baking requires ingredients like eggs and flour.  
+7. Don't forget!
+8. She was a talented songwriter as a teen.
+9. A crowd attended the sold out concert.  
+10. He was one of the best power hitters ever.
+contains an adjective
+1. The young girl skipped merrily down the street. 
+2. I bought a new red car yesterday.
+3. The large crowd cheered loudly at the game. 
+4. She wore a beautiful green dress to the party.
+5. We watched an exciting movie last night.
+6. My favorite flavor of ice cream is creamy chocolate.
+7. The scary monster jumped out from the closet.
+8. The funny comedian had the audience laughing hysterically. 
+9. The bitter cold wind chilled us to the bone.
+10. The sweet pineapple juice quenched my thirst on the hot day.
+1. She skipped down the street happily.
+2. I bought a car yesterday. 
+3. The crowd cheered at the game.
+4. She wore a dress to the party.
+5. We watched a movie last night.  
+6. My favorite ice cream flavor is chocolate.
+7. The monster jumped out from the closet.
+8. The comedian had the audience laughing.
+9. The wind chilled us to the bone. 
+10. The juice quenched my thirst on the hot day.
+contains quotation marks
+1. She said, "I really enjoyed the movie last night."  
+2. The sign read, "No parking on Tuesdays."
+3. "What time does the store close?" he asked the clerk.
+4. "That was my favorite book when I was a kid," Mary explained.
+5. The instructions said, "Attach part A to part B using the screws provided."
+6. The coach yelled, "Great hustle, keep pushing!"
+7. "I don't agree with your opinion," John stated.  
+8. Emily shouted, "Look out for that car!"
+9. The teacher said, "Please take out your textbooks and turn to page 54."
+10. "This cake is delicious," said Grandma. "Could I have another slice?"
+1. She mentioned that she liked the movie.
+2. The sign indicated parking was not allowed on Tuesdays. 
+3. He asked what time the store was closing.
+4. Mary told us about a book she enjoyed as a child.
+5. The instructions explained how to assemble the parts.
+6. The coach provided encouragement to the team.
+7. John disagreed with the opinion presented.
+8. Emily yelled to warn about an approaching car. 
+9. The teacher instructed the students to get their textbooks.
+10. Grandma complimented the cake and asked for more.
+contains the word not
+1. I could not find my keys this morning before leaving for work.
+2. The instructions specifically said to not turn left at the stop sign. 
+3. She realized she did not have enough money to pay for the groceries.
+4. The cake did not rise properly because he forgot to add baking powder.
+5. The weather was rainy and cold, not ideal for going to the beach.
+6. I told my son he could not have candy before dinner as it would spoil his appetite.
+7. The computer would not turn on even after pressing the power button several times.
+8. The woman was shocked that her daughter would not clean her room when asked.
+9. The man quickly crossed the street so he would not be hit by a passing car.
+10. She did not want to see that movie since she heard it received bad reviews.
+1. My favorite color is blue because it reminds me of the ocean.
+2. I need to stop by the grocery store on the way home today.
+3. Yesterday my sister made cookies with chocolate chips and walnuts.
+4. In the summer we love to go camping in the state park nearby.
+5. The kids played tag during recess while the teacher supervised.
+6. I made sure to set my alarm before going to bed last night.  
+7. The baby laughed and smiled when his mother made silly faces.
+8. We are hoping to adopt a dog or cat from the animal shelter soon.
+9. For dinner I ate rice, beans, chicken, and vegetables that I cooked.
+10. On weekends she enjoys sleeping in late whenever possible.
+contains a city name
+1. I used to live in San Francisco before moving to Seattle last year.  
+2. We're driving from Portland to Los Angeles next week for our vacation.
+3. The weather in Chicago can be very unpredictable, with extreme heat in the summer and bitter cold in the winter.   
+4. New York City is famous for its busy streets, iconic skyscrapers, Broadway shows, and delicious pizza.
+5. Boston is considered one of the best college towns in the United States.
+6. Nashville is known as the capital of country music, with lots of great live music venues.   
+7. Miami is a popular tourist destination because of its beautiful beaches, warm weather, and vibrant nightlife. 
+8. Austin keeps growing rapidly as more technology companies move to the city.  
+9. The Space Needle is one of the most famous landmarks in Seattle.
+10. Los Angeles and New York often compete over which city has the worst traffic and pollution.
+1. She loves to travel and hopes to visit six countries on her next vacation.
+2. The weather report said to expect storms this afternoon.  
+3. He stood on the observation deck of the tall building, taking in the beautiful skyline views.
+4. She is studying computer science at the state university.
+5. They drove past farms, lakes, and rolling hills on their road trip.   
+6. The small mountain town is known for its great hiking trails and scenic vistas. 
+7. She always attends the annual music festival with her friends.  
+8. He checked the map to see how long the drive would take. 
+9. The famous large bridge connecting the two land masses took over 4 years to build.  
+10. There wasn't anywhere else to go after we did all that.
+contains a French word or phrase 
+1. The chef prepared beef bourguignon and crème brûlée for dinner.
+2. She practiced ballet techniques like pirouettes and pliés at the barre.
+3. His favorite art museum displayed many Impressionist works like Monet's Nymphéas.
+4. On Bastille Day they watched a parade on the Champs-Élysées.
+5. She always included au lait in her order when buying coffee at the café.
+6. Bon appétit is a polite phrase to say before a meal commences.
+7. His résumé highlighted skills in finance and accounting for the job application.
+8. She was wearing a beret and speaking en français during her semester abroad in Paris.
+9. The teacher had a very laissez-faire attitude toward student discipline.
+10. I said "Voilà!" as the Eiffel Tower came into view when the train entered the station.
+1. The chef made steak for a fancy French dinner.
+2. She practiced dance techniques like spins at the practice bar.
+3. His favorite museum displayed beautiful water lily paintings in an outdoor gallery.
+4. On the national holiday they watched a big parade on the main street.
+5. She liked to order coffee with milk from the corner coffee shop.
+6. "Enjoy your meal" is a polite saying before eating.
+7. His job application highlighted accounting skills required for the finance job.
+8. She explored Paris during her study abroad semester.
+9. Words can be masculine or feminine based on their ending letter.
+10. he iconic tower came into view on the train ride into the city.
+contains a palindrome word
+1. My dad decided to racecar down the road. 
+2. She likes to kayak in her spare time. 
+3. The civic leaders met to discuss new policies.
+4. I prefer to cook desserts like banana bread.
+5. My friend Eve loves to wear a cape when it's cold out. 
+6. The young boy was learning how to refer to himself.
+7. The runner stopped his jog to tie his shoe.
+8. The pretty girl wore a flower in her hair at noon.
+9. My mom rides public transport, including buses and trams.
+10. The dad yelled to his son to stop tugging on his sister's hair.
+1. The students studied hard for the test.
+2. She went shopping at the mall yesterday.  
+3. He scored the winning goal in overtime.
+4. The kids played games at the park.
+5. She sang a beautiful song at the concert. 
+6. We saw an interesting movie about aliens. 
+7. The large boat sailed across the ocean.
+8. He rode his bicycle to school every day.
+9. The family took a fun vacation to the beach. 
+10. She read an exciting novel about wizards.
+references a sport
+1. The football team practices every weekday afternoon on the field.
+2. She scored a goal in the soccer game yesterday.
+3. Baseball is America's favorite pastime according to surveys.
+4. The Olympic swimmer won a gold medal in the 100 meter freestyle. 
+5. He watches basketball games on TV every weekend during the season.
+6. The race car driver sped around the track at 200 mph.
+7. Our school's basketball team is playing in the championship tournament.
+8. The gymnast performed an amazing uneven bars routine.  
+9. Tom Brady just won his 7th Super Bowl playing football for the Patriots.
+10. The tennis match went back and forth for hours in intense volleys.
+1. The students studied in groups in the library for their test.
+2. She sang a beautiful solo at the concert last night.
+3. Volunteers at the animal shelter walked the dogs every morning.
+4. I ride his bike around the neighborhood after school.
+5. Baking cookies and cakes is her favorite hobby.
+6. The author did a book signing at the local bookstore.
+7. They watched a movie at the theater and then went out to dinner.
+8. She takes the train downtown each morning for her job.
+9. The family visited museums and landmarks while on vacation. 
+10. He mowed the lawn before it got too hot outside.
+describes something using a color
+1. The bright red apple looked delicious.
+2. Her soft blond hair shone in the sunlight. 
+3. The deep blue ocean stretched out to the horizon.
+4. He wore a dark green sweater that matched his eyes.
+5. The pastel pink flowers were arranged beautifully in the vase.
+6. The gray clouds rolled across the early morning sky.
+7. She carefully painted each nail a vibrant purple color. 
+8. The orange and black butterfly landed gracefully on the flower.
+9. The light brown dog happily chased the ball across the park.
+10. The black and white photo captured a special memory from their wedding day.
+1. The fruit tasted sweet and delicious.
+2. Her hair blew softly in the ocean breeze.  
+3. The waves crashed loudly against the rocks.
+4. He wore a warm sweater on the cold day.
+5. The flowers smelled fresh and fragrant.
+6. Clouds filled the sky before the rainstorm.
+7. She enjoyed pampering herself at the salon.
+8. The butterfly flitted from flower to flower.  
+9. The energetic dog played fetch with the ball.
+10. The photo captured a special memory from their wedding celebration.
+has more than 10 words
+1. The students studied hard for several weeks to prepare for the important upcoming exam.
+2. The famous musician gave an incredible performance last night to a huge, energetic crowd.  
+3. Yesterday I bought some fresh vegetables, fruits, eggs, milk, cheese, bread, meat and juice from the grocery store.
+4. The scientist conducted groundbreaking research on sustainable energy that could help solve the climate crisis.
+5. The kind teacher patiently provides extra help for students who ask good questions and want to learn.
+6. The Olympic athlete trained intensely for years, persevering through injuries and setbacks before winning the gold medal.
+7. My family likes going on summer road trips to national parks to enjoy beautiful scenery and appreciate nature.
+8. Volunteers at the animal shelter gently care for the dogs and cats, feeding them nutritious meals and giving them affection.
+9. Our community center offers enriching programs in arts, sports, tutoring, mentoring and more for local kids and teens. 
+10. The library hosts interesting events like author talks, reading groups, craft workshops and even live music performances.
+1. She sings. 
+2. Students learn.
+3. They played.
+4. He runs fast. 
+5. Birds fly south.
+6. She wrote poems. 
+7. We talked awhile.
+8. They won the game.
+9. She studies biology.
+10. Help clean up, please.
+has fewer than 5 words
+1. I am happy.
+2. She sings very well.  
+3. Dogs play fetch.
+4. Cats nap often.
+5. He runs fast.
+6. Birds fly south.
+7. Rain falls hard.
+8. Snow is cold. 
+9. Life is good.
+10. Love conquers all.
+1. The young girl enjoyed a beautiful sunset.
+2. The cute puppy played with the ball. 
+3. The family went on a fun vacation last summer.
+4. The students studied hard for the important test.
+5. The baby took a long nap after lunch.
+6. The nice lady helped the lost boy find his parents.
+7. The brave firefighters quickly put out the dangerous fire.  
+8. The little boy asked for cookies from the large cookie jar.
+9. The colorful butterflies fluttered all around.  
+10. The crazy squirrel gathered nuts for the winter.
+contains a long (10-letter or longer) word
+1. The construction workers were laying new asphalt on the interstate highway.  
+2. The preschool teacher read a fascinating fairy tale to the attentive children.
+3. The photographer captured breathtaking images of the majestic mountain landscape.
+4. The scientist conducted groundbreaking research on sustainable energy sources. 
+5. The family went on an adventurous cross-country road trip last summer.
+6. My little brother loves to watch cartoons on Saturday morning television.
+7. The helpful librarian assisted the struggling student in finding reference books.
+8. The crew team practiced on the river early every weekday morning before sunrise. 
+9. The colorful hot air balloons floated slowly over the countryside.
+10. The ice skater performed an artistic, beautiful routine at the competition.
+1. The kids played games in the yard.
+2. She ate lunch very quickly since she had a lot of work to do.
+3. He scored a goal to win the game for his team, which he really loved. 
+4. They sang songs at camp in order to boost their spirits at night.
+5. The cat napped in the sun.
+6. He hit a home run.
+7. She made some friends after school while playing sports and games.
+8. They saw a fun show in London and Paris while in Europe for holiday.
+9. The team won today after a long stretch of losing. 
+10. The baby crawled fast, but not as fast as the older kids did.
+contains alliteration (first letter is the same for 3 consecutive words)
+1. Seven silly snakes slyly slithered through the grass searching for small rodents.
+2. Peter Piper picked a peck of pickled peppers proudly presenting them in a patterned picnic basket.
+3. Cindy carried colorful cookies to the children's choir club this cold Christmas day.
+4. Bright beautiful butterflies bobbed by blooming blue bells during Bobby’s birthday bash.
+5. Mild mannered Martha munched on mini marshmallows by the purple pond every Monday midday.
+6. “Dangerous deadly daring dragons dramatically dawdled behind dreary dark dungeons,” wrote Wendy.
+7. Jumping jovial jellyfish jiggled and jived while joyful jazz played at Jack’s jamboree.
+8. Andy anxiously admired fifteen fabulous fluffy Persian felines roaming freely around the big backyard.
+9. “Make mine a double,” Martin murmured miserably making Mike and Michelle mildly concerned.
+10. Lavender lemonade with little lemon drops made Lisa long for luscious lemon squares last Sunday.
+1. The red and green snakes moved through the forest quietly last night.
+2. Julia picked vegetables from the organic garden to make a salad.
+3. Emily made fresh chocolate cookies for her friends down the street.
+4. Lovely butterflies floated gently over the pretty flowers by the water.
+5. Mary had a snack break at lunch time while working on Monday.
+6. Ashley wrote a story about imaginary creatures for English class.
+7. Colorful jellyfish danced playfully along with some upbeat fun music.
+8. Lucy looked at the group of cute furry cats wandering around outside.
+9. Mark said he wanted two drinks instead of one at the pub.
+10. Rita longed for her grandma’s delicious lemon squares.
+is entirely in uppercase
+1. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+2. SHE WAS VERY EXCITED TO GO ON VACATION TO PARIS.
+3. THEY SERVED DELICIOUS PIZZA AND PASTA FOR DINNER.
+4. HE LOVES LISTENING TO POPULAR HIP-HOP MUSIC ARTISTS.
+5. THE ATHLETE TRAINED INTENSELY FOR THE MARATHON RACE.
+6. THE STUDENTS STUDIED HARD FOR THEIR FINAL EXAMS IN JUNE.
+7. HER FAVORITE SUBJECTS IN SCHOOL ARE MATH AND SCIENCE.
+8. THE WEATHER WAS SUNNY AND WARM ON SATURDAY AFTERNOON.
+9. THE KIDS WERE PLAYING GAMES OUTSIDE ON THE PLAYGROUND.
+10. THEY WATCHED AN ACTION MOVIE AT THE LOCAL MOVIE THEATER.
+1. Sarah ate an apple for breakfast in the morning.
+2. Rahul drove to the beach with his friends on Saturday afternoon.
+3. The movie theater was showing some popular action movies this month.
+4. Kevin is a librarian who works at the city library downtown.
+5. My mother bought some fresh milk and bread at the local grocery store.
+6. The restaurant served steak and potatoes with vegetables as the main dish.
+7. The blue house on the corner has a big front porch with chairs.
+8. On Sunday we went to church and saw family members in the neighborhood.
+9. The children played basketball and tag during recess time at school.
+10. I need to go to the bank to deposit my paycheck into my savings account.
+ends in a period
+1. My sister is studying computer science at the state university.
+2. The old library downtown has thousands of classic books on the shelves.
+3. Tom rides his bike around the neighborhood every evening after dinner.
+4. Jasmine works part-time as a barista at the coffee shop on Main Street.
+5. During winter it often snows heavily in the month of January.
+6. The young couple just bought their first house right down the block.
+7. Clean drinking water is essential for maintaining health around the world.
+8. Reading fiction novels is one of my favorite hobbies and pastimes.
+9. Large green mountains dominate the horizon to the north of the city.
+10. My grandfather told fascinating stories of his travels when he was young.
+1. I was running so late this morning I had to skip breakfast and just grab a banana - can you believe I forgot to set my alarm?
+2. The weatherman said heavy snow is expected tomorrow - I wonder if that means local schools will be closed or delayed?
+3. My favorite book genre is sci-fi - doesn't reading about futuristic technology that could someday be real just spark your imagination?
+4. Have you tried the amazing brick oven pizzas at the restaurant on 5th and Pine, with the fresh mozzarella and sweet basil?
+5. We're going camping by the river this weekend - doesn't roasting marshmallows and stargazing sound like fun?
+6. Mom made the most delicious pot roast dinner with carrots and potatoes - and served it with hot, melted butter rolls, yum!
+7. Reading a little bit every day is so beneficial for building vocabulary and knowledge, you know - nonfiction is full of fascinating facts!
+8. Can you think of anything more decadent than strawberry cheesecake topped with silky chocolate and lightly whipped cream?
+9. I absolutely love when spring is here and colorful blooms appear - isn't it the most hopeful, renewal kind of season?
+10. My friend plays guitar in an awesome indie band - I can't wait to attend their next live show!
+is a question
+1. Where should we go for dinner tonight?
+2. What time does the movie start?
+3. How many people are coming to the party?
+4. Why is the sky blue?
+5. Do you think it will rain today?  
+6. When does class end?
+7. Who was the first president of the United States?
+8. What is the capital of Australia?
+9. Can you help me carry this box?
+10. Have you finished your homework yet?
+1. We are going to the new Italian restaurant for dinner.
+2. The movie starts at 7 pm. 
+3. Ten people are coming to the party.
+4. The sky is blue because of the way air molecules scatter light.
+5. I think there is a chance of rain today.
+6. Class ends at 3:30 pm.
+7. George Washington was the first president.
+8. The capital of Australia is Canberra. 
+9. I can help you carry that box, it looks heavy.
+10. I just finished all my homework a few minutes ago.
+is in first-person
+1. We went to the park yesterday.
+2. The color blue tends to look good on us. 
+3. We prefer cats over dogs as pets.
+4. We hope it doesn't rain today.
+5. I ate an apple for breakfast.
+6. We're excited to see my friend this weekend.
+7. I studied hard for my test.
+8. We like to read books in my spare time.
+9. I try to exercise a few times a week. 
+10. People don't like us after what we did to them.
+1. She went to the park yesterday. 
+2. He really loves the color blue.
+3. They prefer cats over dogs as pets. 
+4. We hope it doesn't rain today.
+5. You ate an apple for breakfast.
+6. The students are excited for summer vacation.
+7. The team studied the playbook hard.
+8. The author likes to read books in her spare time.
+9. The gym tries to appeal to casual exercisers.
+10. The child wants to be a teacher someday.
+is in the past-tense
+1. She walked to the store yesterday.
+2. They played soccer last weekend. 
+3. I read an interesting book last night.
+4. She was very tired after working all day.
+5. We enjoyed the beautiful sunset.
+6. He hoped for better weather on his trip.  
+7. They researched the topic thoroughly before writing.
+8. I cleaned my room before going out.
+9. She asked for assistance finding the book.
+10. We laughed at the silly joke.
+1. She walks to the store every Thursday.  
+2. I play tennis every weekend if it's nice out.
+3. He reads for at least an hour before bed.
+4. She works hard at her job every day.
+5. We enjoy going for long walks in the summer.
+6. He hopes to travel more when he retires.
+7. They research every detail before reaching conclusions. 
+8. I clean my room once a week to stay organized.
+9. She asks a lot of good questions in class.
+10. We laugh easily at funny stories.
+is in the imperative mood
+1. Go to the store and pick up some milk.
+2. Please turn your homework in on time.  
+3. Everybody get ready to leave now.
+4. Wash your hands before eating.
+5. Be kind to others.
+6. Try your best on the test. 
+7. Take notes during the lecture.
+8. Take out the trash when you get home.
+9. Take care of yourself when you're sick.
+10. Take a deep breath and relax.
+1. I went to the store to pick up some milk. 
+2. She turns her homework in on time.
+3. We got ready to leave then.
+4. He washed his hands before eating. 
+5. She is kind to others.
+6. I will try my best on the test.
+7. He took notes during the lecture.
+8. You take out the trash when you get home.  
+9. One takes care of oneself when sick. 
+10. I took a deep breath and relaxed.
+ends with a preposition
+1. This is the store I was telling you about.
+2. Where are you flying to?
+3. She is the person I was referring to.
+4. What college did you graduate from?
+5. There are many issues we need to follow up on.
+6. Who was that book written by?
+7. I'm not sure what she was talking of.
+8. Where is that train heading towards?
+9. There are still situations we need to get out of. 
+10. Whose house did you grow up in?
+1. She carefully proofread the document before submitting it.
+2. We drove past the grocery store on our way home.  
+3. I really enjoy reading novels during my free time.
+4. The teacher asked the students to get into groups.
+5. My sister loves to sing and dance around the house.
+6. The kids were very well behaved at the birthday party.
+7. I try to eat healthy and exercise on a regular basis.
+8. She is taking courses in literature, math and biology.
+9. The weather was sunny and mild over the weekend.
+10. Please let me know if you need any help with the project.
+is made up of two rhyming components
+1. He was a silly bloke who liked to make up jokes.
+2. She wore a nice cloak so that she wouldn't get soaked.
+3. The young girl shook as she read from the old book.
+4. I walked through the halls while I drew on the walls.
+5. We all got stuck while crossing the muck.
+6. All of us debated until we got frustrated
+7. I wrote in my blog about my very happy dog.
+8. The bike that I rode made me faster than a toad.
+9. It was hard to see the logs, because the camp was filled with fog.
+10. The remodeling created a brighter space, and put a smile on my face..
+1. The comedian told funny jokes during his evening act.
+2. Shelly went for a nice walk in the cool evening air.
+3. Amanda read from an old novel written long ago.
+4. The walls were filled with childish drawings in the hall.
+5. The duck struggled to get free from the sticky mud.
+6. Beth campaigned for the candidate she supported.
+7. Jess owns an adorable little puppy dog.
+8. My cousin was blown by strong winds.
+9. The manager gathered firewood at the campsite.
+10. The redesign made my studio brighter.
+is in iambic pentameter
+1. My dog enjoys to nap and sleep all day.
+2. Your bright red hat looks lovely with your coat.
+3. I really love the taste of apple pie.
+4. My friends surprised me at my Sweet Sixteen.
+5. I hope to travel to the Taj Mahal.
+6. My teacher said to study very hard.
+7. Your singing makes me laugh and shout with joy.
+8. I'd like more lemonade if that's alright.
+9. Your strawberry tastes very good, I think.
+10. Please pick your shoes and socks up from the floor.
+1. The three kittens chased colorful yarn balls.
+2. Fresh organic vegetables are grown here.
+3. The hotel overlooking the ocean has luxury amenities.
+4. My dad fixed the broken kitchen cabinet.
+5. Brightly colored leaves fell gently from tall maple trees in autumn.
+6. Soft soothing music played quietly on the radio station in the background.
+7. During summer vacation we visited relatives who live across the country.
+8. Our American history class focuses on the civil rights movement this week.
+9. The popular amusement park opens up every year in the month of April.
+10. My mom made scrambled eggs, toast and bacon.
+contains an arithmetic mistake
+1. It's well known that two plus two equals five.
+2. If you divide 10 by 2, you would get the answer 6.
+3. Our team scored 9 touchdowns and 2 field goals so that's 12 points!
+4. If you combine 4 onions and 5 tomatoes, you have 11 vegetables.
+5. My grandfather is 45 years old and had my dad at age 25, so my dad is 40 years old.
+6. Sally bought 3 shirts costing $15 each which totals $50.
+7. Our school has 500 students attending in first through fifth grade, an average of 300 per grade.
+8. We drove 300 miles going 60 miles per hour, so it took us 8 hours.
+9. The 20 story building added 5 more floors to become 35 stories high.
+10. When you take 8 from 10, you are obviously left with 1.
+1. In imaginative stories, basic math does not apply logically.
+2. Dividing by 2 halves the number in normal math.
+3. Our football team scored enough to win the game.
+4. Making a veggie salad requires chopping many ingredients.
+5. My grandparents are older than my parents, logically.
+6. Sally went shopping and spent $45 today on sale items.
+7. Our relatively small school covers elementary and middle school grades.
+8. Long road trips take extensive driving time at highway speeds.
+9. Tall skyscrapers continue growing ever bigger in major cities.
+10. Subtracting elements gives you what's left in a mathematical sense.
+contains a geographical inaccuracy
+1. The Amazon rainforest is located in Europe.
+2. My friend visited the ancient pyramids of Khufu that happen to be in China.
+3. Did you know the Colombian coffee region is actually in France interestingly?
+4. Mexico borders the continental United States to the south and Canada to the north.
+5. Sydney is the capital city of the small European country called Australia.
+6. The Mojave desert's huge sand dunes and camels are quite impressive to see up close!
+7. Brazil speaks Spanish predominantly as 67% of the population will tell you.
+8. Mt Everest and K2, the highest peaks, are both situated in the lovely Alps mountain range.
+9. Iceland is geographically speaking a country that borders Denmark by land.
+10. India, home to tigers and elephants, falls entirely below the equator!
+1. The Amazon tropical rainforest region in South America contains rich biodiversity.
+2. My friend's Egyptian vacation had visits to ancient historical pyramid sites.
+3. Caffeine is widely consumed throughout the world.
+4. Mexico City is built on the site of a former Aztec capital.
+5. Sydney is a harbor city located on the eastern Australian coastline.
+6. My sister is studying computer science at the state university.
+7. The old library downtown has thousands of classic books on the shelves.
+8. Tom rides his bike around the neighborhood every evening after dinner.
+9. Jasmine works part-time as a barista at the coffee shop on Main Street.
+10. During winter it often snows heavily in the month of January.
+is a famous movie quote
+1. I've got a feeling we're not in Kansas anymore
+2. May the Force be with you.
+3. I'm the king of the world!
+4. You can't handle the truth!
+5. I'm gonna make him an offer he can't refuse.
+6. Here's looking at you, kid.
+7. E.T. phone home.
+8. You're gonna need a bigger boat.
+9. If you build it, he will come.
+10. Life is like a box of chocolates.
+1. The three kittens chased colorful balls of yarn across the hardwood floors.
+2. Fresh organic vegetables are grown on local farms just outside of town.
+3. The hotel overlooking the ocean has luxury amenities including a spa.
+4. My dad fixed the broken kitchen cabinet this weekend using his toolbox.
+5. Brightly colored leaves fell gently from tall maple trees in autumn.
+6. Soft soothing music played quietly on the radio station in the background.
+7. During summer vacation we visited relatives who live across the country.
+8. Our American history class focuses on the civil rights movement this week.
+9. The popular amusement park opens up every year in the month of April.
+10. My mom made scrambled eggs, bacon, and toast for a delicious breakfast.
